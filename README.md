@@ -6,7 +6,9 @@ Personal GitHub organization profile for Mark Topper Diderichsen.
 - [`profile/assets/avatar.png`](profile/assets/avatar.png) — square profile picture.
 - [`profile/assets/banner.png`](profile/assets/banner.png) — wide profile banner.
 
-Prepared locally in a temporary folder. Nothing has been pushed. The profile banner's public URL will resolve after publication to `Diderichsen/.github` on `main`. Upload the avatar separately in organization settings.
+Repository: https://github.com/Diderichsen/.github
+
+The profile banner is served from this repository on `main`. Upload the avatar separately in organization settings.
 
 ## Artwork direction
 
